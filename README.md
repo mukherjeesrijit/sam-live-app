@@ -10,7 +10,7 @@ Create a folder named "app" inside the "sam2" folder, and add the code file shar
 ## Step 3: Run the code.
 Now, run the code and enjoy your in-house SAM code!
 
-[Check out the live SAM2 application on my data here.
+[Check out the live SAM2 application on my system here.
 ](https://www.linkedin.com/posts/srijit-mukherjee_code-%F0%9D%90%92%F0%9D%90%AE%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%9F%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%A0%F0%9D%90%A6%F0%9D%90%9E%F0%9D%90%A7%F0%9D%90%AD-activity-7388539178927493120-Iint?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB2QfP8BepQmyPYA2Ly4YR-iNUAam41Nk2M)
 --- 
 
