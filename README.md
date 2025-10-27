@@ -1,4 +1,5 @@
 # Step-by-Step Process
+SAM stands for Segment Anything. This is a [foundation model by Meta](https://segment-anything.com/). I have been using it for my medical image segmentation, and it has been extremely powerful for generating initial masks, on which my medical professional collaborators can add/remove wrong annotations. It reduces their work by 10x, I believe. However, SAM2 is not available offline in our own system - the live app system is extremely powerful because the prompts can be adjusted based on the live outputs that it gives. Now, you can do it in your own system. 
 
 ## Step 1: Install SAM2.
 We are using the image predictor capability of SAM2. Follow the instructions [here](https://github.com/facebookresearch/sam2) clearly.
@@ -9,7 +10,7 @@ Create a folder named "app" inside the "sam2" folder, and add the code file shar
 ## Step 3: Run the code.
 Now, run the code and enjoy your in-house SAM code!
 
-Check out the live sam2 application on my data here.
+Check out the live SAM2 application on my data here.
 
 --- 
 
